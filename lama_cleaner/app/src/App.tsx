@@ -176,7 +176,7 @@ function App() {
   })
 
   return (
-    <div className="lama-cleaner">
+    <div className="cleaner-root">
       {/* <Header /> */}
       <Workspace key={workspaceId} />
     </div>
