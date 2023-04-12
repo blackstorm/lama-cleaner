@@ -557,8 +557,8 @@ export const settingStateDefault: Settings = {
   showCroper: false,
   downloadMask: false,
   graduallyInpainting: true,
-  runInpaintingManually: false,
-  model: AIModel.LAMA,
+  runInpaintingManually: true,
+  model: AIModel.ZITS,
   hdSettings: defaultHDSettings,
 
   ldmSteps: 25,
