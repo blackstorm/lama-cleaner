@@ -10,7 +10,7 @@ RUN pip install --upgrade pip && \
 
 ARG version
 
-RUN pip install lama-cleaner==$version
+RUN pip install lama-cleaner-custom==$version
 
 EXPOSE 8080
 

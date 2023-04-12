@@ -7,4 +7,5 @@ build
 !lama_cleaner/app/build
 dist/
 lama_cleaner.egg-info/
+lama_cleaner_custom.egg-info/
 venv/

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-GIT_TAG=$1
+GIT_TAG=v0.0.1
 IMAGE_DESC="Image inpainting tool powered by SOTA AI Model" 
 GIT_REPO="https://github.com/Sanster/lama-cleaner"
 
